@@ -1,3 +1,19 @@
+# 💫 Hi 👋, I'm Divil Thakur
+**A passionate Mern Stack Engineer**
+
+Email Me 👉 ✉️ **divilthkr3@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** A MERN stack web application focused on real-time functionality and user experience.
+- 🌱 **I’m currently learning:** Advanced backend development and Docker.
+- 👯 **I’m looking to collaborate on:** MERN stack projects, open-source contributions, or full-stack web apps.
+- 💬 **Ask me about:** Web development, JavaScript, MERN stack, or collaborating on cool tech ideas.
+- 📫 **How to reach me:** divilthkr3@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I love tech—and tech loves me back! 🚀
+
+
+## 🔗 I am a Content Creator. 😊😊
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/divil_thakur_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divil-thakur-98627a265/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divilthkr3@gmail.com) 
@@ -8,6 +24,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=DivilThakur&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DivilThakur&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DivilThakur&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
