@@ -5,15 +5,22 @@
 
 🌍 **Let's build something that matters.**
 
+<p align="left">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="280" align="right" alt="Dev GIF">
+</p>
+
 Email Me 👉 ✉️ **divilthkr3@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** A MERN stack web application focused on real-time functionality and user experience.
-- 🌱 **I’m currently learning:** Advanced backend development and Docker.
-- 👯 **I’m looking to collaborate on:** MERN stack projects, open-source contributions, or full-stack web apps.
-- 💬 **Ask me about:** Web development, JavaScript, MERN stack, or collaborating on cool tech ideas.
-- 📫 **How to reach me:** divilthkr3@gmail.com
-- 😄 **Pronouns:** He/Him
+- 🔭 **I’m currently working on:** A MERN stack web application focused on real-time functionality and user experience.  
+- 🌱 **I’m currently learning:** Advanced backend development and Docker.  
+- 👯 **I’m looking to collaborate on:** MERN stack projects, open-source contributions, or full-stack web apps.  
+- 💬 **Ask me about:** Web development, JavaScript, MERN stack, or collaborating on cool tech ideas.  
+- 📫 **How to reach me:** divilthkr3@gmail.com  
+- 😄 **Pronouns:** He/Him  
 - ⚡ **Fun fact:** I love tech—and tech loves me back! 🚀
+
+
+
 
 
 ## 🚀 What Drives Me
